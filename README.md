@@ -1,6 +1,7 @@
 # Document Store
 
-This project was generated with Asp.Net version 6 and [Angular CLI](https://github.com/angular/angular-cli) version 14.2.4.
+This project was generated with [Asp.Net](https://dotnet.microsoft.com/en-us/apps/aspnet) version 6 and [Angular CLI](https://github.com/angular/angular-cli) version 14.2.4.
+
 
 ## Development server
 
