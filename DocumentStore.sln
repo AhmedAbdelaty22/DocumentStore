@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "FrontEnd", "FrontEnd\FrontEnd.esproj", "{AF8086CA-E61B-4190-88DC-15F4A1CC8857}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackEnd", "BackEnd\BackEnd.csproj", "{FED7155D-830F-4559-AB02-D360A97AC915}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF8086CA-E61B-4190-88DC-15F4A1CC8857}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF8086CA-E61B-4190-88DC-15F4A1CC8857}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF8086CA-E61B-4190-88DC-15F4A1CC8857}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{AF8086CA-E61B-4190-88DC-15F4A1CC8857}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF8086CA-E61B-4190-88DC-15F4A1CC8857}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF8086CA-E61B-4190-88DC-15F4A1CC8857}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{FED7155D-830F-4559-AB02-D360A97AC915}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FED7155D-830F-4559-AB02-D360A97AC915}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FED7155D-830F-4559-AB02-D360A97AC915}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FED7155D-830F-4559-AB02-D360A97AC915}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86C37C64-8E46-461B-B59A-255B79722A82}
+	EndGlobalSection
+EndGlobal
